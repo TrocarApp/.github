@@ -1,3 +1,3 @@
-# Trocar App
+# Documentation - Trocar App
 
-Trocar es una plataforma que facilita el intercambio de bienes y servicios entre usuarios vecinos.
+Repositorio para la docuemntación y aspectos técnicos generales de la aplicación.
