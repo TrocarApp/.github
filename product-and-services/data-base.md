@@ -1,7 +1,4 @@
-
-
-![Image](https://github.com/orgs/TrocarApp/projects/4/assets/1991984/cbe69e11-77c7-4729-b7e6-078d673a5922)
-
+![Captura desde 2024-05-30 08-54-31](https://github.com/TrocarApp/.github/assets/1991984/91e23dca-d467-4210-8132-e46bf659cec7)
 
 
 **Tabla products**
